@@ -47,5 +47,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- SOC Analyst home lab project (LimaCharlie Endpoint Detection and Response)
 - Nessus Lab
 - SOC Automation Project
