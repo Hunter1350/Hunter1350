@@ -1,6 +1,4 @@
 # Hello, I'm Hunter
-<a href="[https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jonathan-king-81ab8a130/)" /></a>
-
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
