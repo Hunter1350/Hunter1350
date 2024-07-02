@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Endpoint Detection and Response         | <a href="https://jonathanhunterking.substack.com/p/soc-analyst-home-lab-project">SOC Analyst home lab project</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://jonathanhunterking.substack.com/p/soc-analyst-home-lab-project">SOC Automation lab project</a> |
-| Incident Response Planning and Execution      | <a href="https://jonathanhunterking.substack.com/p/soc-analyst-home-lab-project">SOC Automation lab project</a>|
-| Case Management with TheHive                  | <a href="https://jonathanhunterking.substack.com/p/soc-analyst-home-lab-project">SOC Automation lab project</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://jonathanhunterking.substack.com/p/soc-automation-lab-project">SOC Automation lab project</a> |
+| Incident Response Planning and Execution      | <a href="https://jonathanhunterking.substack.com/p/soc-automation-lab-project">SOC Automation lab project</a>|
+| Case Management with TheHive                  | <a href="https://jonathanhunterking.substack.com/p/soc-automation-lab-project">SOC Automation lab project</a>|
 | Endpoint Vulnerability Management | <a href="https://jonathanhunterking.substack.com/p/nessus-vulnerability-scanner-lab">Nessus Vulnerability Scanner Home Lab</a>|
 
 ## Tools
